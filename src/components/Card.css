@@ -1,0 +1,28 @@
+.card-container {
+    width: 250px;
+    background-color: lightsteelblue;
+    overflow: hidden;
+    margin-bottom: 25%;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.3s;
+}
+
+.card-container:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+
+
+.image-container img{
+    overflow: hidden;
+    height: 200px;
+}
+
+.card-content{
+    margin: 1rem;
+    margin-top: 0.3rem;
+}
+
+h3{
+    color: goldenrod;
+}

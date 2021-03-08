@@ -1,0 +1,16 @@
+h1{
+    color:purple;
+}
+
+h2{
+    color: palevioletred;
+}
+
+.main-header{
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    height: 20%;
+}
+
+
